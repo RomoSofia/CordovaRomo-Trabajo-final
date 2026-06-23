@@ -455,4 +455,9 @@ figure figcaption {
     .filtros-fila select {
         min-width: 100%;
     }
+    figure object[type="image/svg+xml"] {
+    display: block;
+    width: 100%;
+    height: 500px;
+}
 }
